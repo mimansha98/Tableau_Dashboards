@@ -1,7 +1,8 @@
-# Tableau_Dashboards
+# Tableau_Dashboards  
+Udacity Nanodegree Data Visualization Project-3  
 Superstore Sales and profit  
-DASHBOARD :
 
+DASHBOARD :  
 https://public.tableau.com/profile/mimansha.agrawal1091#!/vizhome/Superstoresaleprofit/Dashboard1?publish=yes
 
 TEXT HIERARCHY:
