@@ -11,5 +11,7 @@ Title - 20
 Body text - 14   
 BAN Text - 12   
 Context/instructive text - 10   
-Data sources / Content - 8  
+Data sources / Content - 8    
+
+Dataset: Superstore Dataset
 
